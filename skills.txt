@@ -1,0 +1,13 @@
+{
+    "skill_1": "HTTP",
+    "skill_2": "GIT",
+    "skill_3": "SQL",
+    "skill_4": "Mobile_Testing",
+    "skill_5": "Postman",
+    "skill_6": "Charles",
+    "skill_7": "Fiddler",
+    "skill_8": "Android_Studio",
+    "skill_9": "XCODE",
+    "skill_10": "QA_Theory",
+    "skill_11": "Linux_Terminal"
+}

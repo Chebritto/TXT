@@ -1,0 +1,7 @@
+{
+	"Favorite movie": "Fight club",
+	"Favorite series": "How I met you mother" ,
+	"Favorite food": "Apple pie" ,
+	"Favorite Country" : "Canada",
+	"Favorite phone" : "Iphone_12_Pro_Max"
+}
